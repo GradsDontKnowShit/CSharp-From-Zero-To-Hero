@@ -30,6 +30,8 @@ namespace BootCamp.Chapter
             double bmi = userWeightNum/Math.Pow(userHeightNum,2);
             // Printing
             Console.WriteLine("{0} is {1} years old, is {2} kg and {3} m. {4}'s BMI is {5:0.0}.",userName,userAgeNum,userWeightNum,userHeightNum,userName,bmi);
+
+            // My edit
         }
     }
 }
